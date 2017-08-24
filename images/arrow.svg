@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="63.125px" viewBox="0 0 50 63.125" enable-background="new 0 0 50 63.125" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M4.445,41.933c-1.747-1.747-1.797-4.528-0.113-6.212l0,0
+		c1.684-1.684,4.465-1.633,6.212,0.113l17.079,17.079c1.747,1.747,1.797,4.528,0.113,6.212l0,0
+		c-1.684,1.684-4.465,1.633-6.212-0.113L4.445,41.933z">
+		<animateTransform begin="fdjsiao.end" id="pause1" dur="3s" type="translate" attributeType="XML" attributeName="transform"/>
+		<animateTransform id="fdjsiao"
+			 attributeName="transform"
+			 attributeType="XML"
+			 type="translate"
+			 dur="2s"
+			 values="0,0;0,-15;0,0;0,-15;0,0"
+			 begin="0; pause1.end"
+			 fill="freeze" />
+	</path>
+	<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M39.456,36.459c1.747-1.747,4.528-1.797,6.212-0.113l0,0
+		c1.684,1.684,1.633,4.465-0.113,6.212L28.476,59.637c-1.747,1.747-4.528,1.797-6.212,0.113l0,0
+		c-1.684-1.684-1.633-4.465,0.113-6.212L39.456,36.459z">
+		<animateTransform begin="jfidso.end" id="pause2" dur="3s" type="translate" attributeType="XML" attributeName="transform"/>
+		<animateTransform id="jfidso"
+			 attributeName="transform"
+			 attributeType="XML"
+			 type="translate"
+			 dur="2s"
+			 values="0,0;0,-15;0,0;0,-15;0,0"
+			 begin="0; pause2.end"
+			 fill="freeze" />
+	</path>
+</g>
+</svg>
